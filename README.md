@@ -80,3 +80,7 @@ How can HR improve retention strategies?
 
 
 ## 📸 Screenshots / Demo
+
+Here’s what the dashboard looks like 👇
+
+![HR Dashboard](https://raw.githubusercontent.com/Vedant-0/HR_summary_Dashboard/main/Dashboard%20SNAPSHOT.png)
